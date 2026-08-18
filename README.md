@@ -48,6 +48,6 @@ Node.js • Express.js • MongoDB • Mongoose • JWT • bcrypt • Nodemaile
 
 User → Authentication → Account → Transaction → Ledger → Balance → Email Notification
 
-## Note
+## Project Goal
 
-This project was built as a learning project and is not intended for handling real financial transactions.
+The goal of this project was to understand how a banking backend works as a complete system and to strengthen my practical knowledge of backend development by connecting authentication, accounts, transactions, ledgers, database operations, and notifications together.
